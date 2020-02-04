@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class Craps
 	{
-
+		//hi
+		//gydg//hjhj
 		public static void main(String[] args)
 			{
 				int balance = 1000;
